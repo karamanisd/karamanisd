@@ -11,8 +11,8 @@ for x in data['vehicles']:
     count+=1
 print('all bikes:',count)
 print('all bikes:',count)
-print('all bikes:',count)
-print('all bikes:',count)
+print('all bikes:',count)dasdsa
+print('all bikes:',count)dasdas
 
 # ------------------------ question 2
 # Show me how many of them are available
